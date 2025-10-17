@@ -51,3 +51,12 @@ git switch -c nombre_de_la_rama
 
 Ir a settings
 ir a "collaborators"
+
+CREAR PROYECTO
+npm create vite@latest 
+
+Escoger react
+Escoger JavaScript + SWC
+
+
+
